@@ -80,8 +80,7 @@ te-aihub-intern-assignment-vritika-savukar/
 │
 ├── scripts/
 │   └── validate_export.py
-│
-└── selected_10_images_or_download_instructions.txt
+
 ```
 
 ---
