@@ -24,9 +24,9 @@ The final exported annotations can be used as structured training data for futur
 
 ---
 
-# Demo Video - Google Drive Link
+# Demo Video
 
-GOOGLE_DRIVE_LINK_HERE
+[GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/file/d/1GEmZNIL1onNF8a4RUGlNAzTCt3TDQ7w5/view?usp=drive_link)
 
 ---
 
