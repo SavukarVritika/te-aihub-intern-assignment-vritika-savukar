@@ -24,6 +24,12 @@ The final exported annotations can be used as structured training data for futur
 
 ---
 
+# Demo Video - Google Drive Link
+
+GOOGLE_DRIVE_LINK_HERE
+
+---
+
 # Dataset Used
 
 Dataset: BCCD Blood Cell Count and Detection Dataset
@@ -200,13 +206,7 @@ The repository includes the following screenshots:
 
 ---
 
-# Demo Video
 
-## Google Drive Video Link
-
-PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE
-
----
 
 # Issues Faced and Solutions
 
